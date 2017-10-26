@@ -1,0 +1,2463 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", VOA indonesia
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Jogja TV
+rtmp://202.169.224.206/live
+#EXTINF:0 type="stream" channelId="-1", MGS TV
+http://188.166.223.66:8081/live_application/live_stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BIOS TV
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", UB TV
+rtmp://175.45.185.215/live/ubtv
+#EXTINF:0 type="stream" channelId="-1", Sakti TV
+rtmp://video2.onlivestreaming.net/saktitv
+#EXTINF:0 type="stream" channelId="-1", BatuTV
+rtmp://202.69.108.114/oflaDemo/batu
+#EXTINF:0 type="stream" channelId="-1", Ihsan TV
+rtmp://119.82.224.75:1935/live/ahsantv
+#EXTINF:0 type="stream" channelId="-1", RIM TV
+http://office.rim-tv.com:1935/live/smil:rimTV.smil/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Edukasi
+http://118.98.221.131/live/tvedukasi.smil/Playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Jakarta Globe news Channel TV
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", The Indonesia Channel
+http://202.93.143.66:1935/aoraiptv/aora07/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SCTV
+https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", JEK TV
+http://182.253.193.35:1935/live/myStream1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVRI Jambi
+rtmp://videostream.indostreamserver.com:1935/tvrijambi/live
+#EXTINF:0 type="stream" channelId="-1", TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(03)/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVRI Sumbar
+rtmp://27.124.92.42/oflaDemo
+#EXTINF:0 type="stream" channelId="-1", Sultra TV
+http://tvsultra.onlivestreaming.net/tvsultra/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVRI Makassar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Duta TV Banjarmasin
+http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVRI Kalimantan Timur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", PKTV Bontang
+rtmp://wowza60.indostreamserver.com:1935/pktv/live
+#EXTINF:0 type="stream" channelId="-1", CTV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tahfizh TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+#EXTINF:0 type="stream" channelId="-1", YM TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Surau TV
+http://103.28.22.198/surautv/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", WesalTV
+rtmp://119.235.249.60:1935/wesaltv/live
+#EXTINF:0 type="stream" channelId="-1", SNTV
+http://svr.sntivi.id:1935/live/sntv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ADI TV Jogja
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV9 Nusantara
+rtmp://119.235.249.60/tv9/live
+#EXTINF:0 type="stream" channelId="-1", Ummat TV
+http://ummattv2.onlivestreaming.net/ummattv2/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVMU
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+#EXTINF:0 type="stream" channelId="-1", InsanTV
+http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rodja TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVRI Sport
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/cnn_live_tv1.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVRI Budaya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:0 type="stream" channelId="1290", INTV
+http://flash1.broadcastindo.net/bantentv/stream.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ochannel
+https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="119", Bloomberg TV
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8
+#EXTINF:0 type="stream" channelId="-1", Trans7
+https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Beritasatu English
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Beritasatu world
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Beritasatu News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", AN TV
+https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVONE
+https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Indosiar
+https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTV
+rtmp://203.153.97.35:1935/live
+#EXTINF:0 type="stream" channelId="-1", TVRI DKI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVRI National
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNC Muslim
+http://edge.okezone.com/live/muslim.m3u8
+#EXTINF:0 type="stream" channelId="-1", Music Channel
+http://cdn.metube.id/videom3u8/Nvxz1Z1fFutFN07AL0H6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNC Lifestyle
+http://edge.okezone.com/live/lifestyle.m3u8
+#EXTINF:0 type="stream" channelId="-1", IDX
+http://live.metube.id/tv/channel2000072/index1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNC Infotainment
+http://cdn.metube.id/videom3u8/o8TsbDStfdxpmHFRF2gi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNC Shop
+http://cdn.metube.id/videom3u8/tO1wPhMkM7CRadm3COgO/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNC Life
+http://edge.okezone.com/live/life.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNC News
+http://cdn.metube.id/videom3u8/19rX5BcHnQMa7JFobxs5/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", iNews
+http://cdn.metube.id/videom3u8/Znfce0rBdBVECzOXKl1U/index.m3u8
+#EXTINF:0 type="stream" channelId="1426", GlobalTV
+http://cdn.metube.id/videom3u8/Y0NzL67PrNZPPNWPsGMv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNC TV
+http://cdn.metube.id/videom3u8/IUiK1dQBlhVgBd0c4Ehd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", KompasTV
+rtmp://43.245.183.170/kompastv
+#EXTINF:0 type="stream" channelId="-1", Aniplus
+rtmp://118.97.183.222/discover/aniplus
+#EXTINF:0 type="stream" channelId="-1", MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", RCTI
+http://cdn.metube.id/videom3u8/BNJz9xRPaciwuTx1NsOu/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Net TV
+#EXTSIZE: Small
+http://edge.nim.mivo.tv/kqcsmbqna6yg/nettv_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Trans TV
+#EXTSIZE: Small
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Vizioni Plus  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/13.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Jolly HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/28.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Shenja  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/11.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Jolly HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/8.ts
+#EXTINF:0 type="stream" channelId="-1", TV TETOVA HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/123.ts
+#EXTINF:0 type="stream" channelId="-1", Tring 3 PLUS  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/31.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Opoja  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/55.ts
+#EXTINF:0 type="stream" channelId="-1", Syri Blue HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/128.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport 1 HD  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/118.ts
+#EXTINF:0 type="stream" channelId="-1", TV Festa Kumanov  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/147.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold  IPTVultra.com [864x640]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/14.ts
+#EXTINF:0 type="stream" channelId="-1", Sitel 3  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/96.ts
+#EXTINF:0 type="stream" channelId="-1", Koha TV  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/92.ts
+#EXTINF:0 type="stream" channelId="-1", Top Estrada Tv  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/117.ts
+#EXTINF:0 type="stream" channelId="-1", A1 Shqiptare  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/127.ts
+#EXTINF:0 type="stream" channelId="-1", Era Tv  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/93.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Aksion  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/32.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 2  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/16.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 1  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/15.ts
+#EXTINF:0 type="stream" channelId="-1", Folk MK  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/145.ts
+#EXTINF:0 type="stream" channelId="-1", Top Estrada Tv  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/17.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Fantasy HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/21.ts
+#EXTINF:0 type="stream" channelId="-1", STAR TV HD  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/109.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Humor 2 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/48.ts
+#EXTINF:0 type="stream" channelId="-1", Vesti 24  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/134.ts
+#EXTINF:0 type="stream" channelId="-1", Show tv hd  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/108.ts
+#EXTINF:0 type="stream" channelId="-1", KANAL 5  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/102.ts
+#EXTINF:0 type="stream" channelId="-1", A1 Shqiptare  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/27.ts
+#EXTINF:0 type="stream" channelId="-1", Tring World HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/25.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Opoja  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/5.ts
+#EXTINF:0 type="stream" channelId="-1", Tivibu Sport 2  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/83.ts
+#EXTINF:0 type="stream" channelId="-1", Elrodi TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/6085F2CBdb/6085F2CBdb/53.ts
+#EXTINF:0 type="stream" channelId="-1", RTP 2 Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1454.ts
+#EXTINF:0 type="stream" channelId="-1", RTP 2  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/882.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 1 HD  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/858.ts
+#EXTINF:0 type="stream" channelId="-1", BTV HD  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1065.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 2 Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1439.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 3 HD  IPTVultra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1070.ts
+#EXTINF:0 type="stream" channelId="-1", AXN HD  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/857.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 4 HD  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1145.ts
+#EXTINF:0 type="stream" channelId="-1", FOX HD  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1081.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 5 HD  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1523.ts
+#EXTINF:0 type="stream" channelId="-1", TV CINE 4 HD  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1304.ts
+#EXTINF:0 type="stream" channelId="-1", TV CINE 4  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1089.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 2  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/879.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 5  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/861.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 3 Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1441.ts
+#EXTINF:0 type="stream" channelId="-1", HOLLYWOOD HD  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1083.ts
+#EXTINF:0 type="stream" channelId="-1", TV CINE 1 Mobile  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1452.ts
+#EXTINF:0 type="stream" channelId="-1", TV CINE 1  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1084.ts
+#EXTINF:0 type="stream" channelId="-1", TV CINE 3 HD  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1303.ts
+#EXTINF:0 type="stream" channelId="-1", TV CINE 2 HD  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1087.ts
+#EXTINF:0 type="stream" channelId="-1", AMC Mobile  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1453.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 1  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/867.ts
+#EXTINF:0 type="stream" channelId="-1", AXN WHITE  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1129.ts
+#EXTINF:0 type="stream" channelId="-1", TV CINE 2 Mobile  IPTVultra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1451.ts
+#EXTINF:0 type="stream" channelId="-1", SYFY HD  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1289.ts
+#EXTINF:0 type="stream" channelId="-1", MOV  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1075.ts
+#EXTINF:0 type="stream" channelId="-1", TVI FICCÃƒO  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1400.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 2 HD  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1069.ts
+#EXTINF:0 type="stream" channelId="-1", TVI REALITY  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/865.ts
+#EXTINF:0 type="stream" channelId="-1", SIC RADICAL  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1092.ts
+#EXTINF:0 type="stream" channelId="-1", SIC CARAS  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1524.ts
+#EXTINF:0 type="stream" channelId="-1", SPORTING TV  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/859.ts
+#EXTINF:0 type="stream" channelId="-1", AMC HD  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/866.ts
+#EXTINF:0 type="stream" channelId="-1", CINEMUNDO  IPTVultra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1527.ts
+#EXTINF:0 type="stream" channelId="-1", KOMBAT SPORT  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1528.ts
+#EXTINF:0 type="stream" channelId="-1", MOTORVISION HD  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1521.ts
+#EXTINF:0 type="stream" channelId="-1", EUROSPORT 1 HD  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1290.ts
+#EXTINF:0 type="stream" channelId="-1", SYFY  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1090.ts
+#EXTINF:0 type="stream" channelId="-1", TV CINE 1 HD  IPTVultra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1085.ts
+#EXTINF:0 type="stream" channelId="-1", NATIONAL GEOGRAPHIC HD  IPTVultra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1077.ts
+#EXTINF:0 type="stream" channelId="-1", RTP 3 Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1444.ts
+#EXTINF:0 type="stream" channelId="-1", RTP 3  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/886.ts
+#EXTINF:0 type="stream" channelId="-1", FOX MOVIES  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/863.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL HISTORIA  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/870.ts
+#EXTINF:0 type="stream" channelId="-1", TVI  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/891.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL HISTORIA Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1457.ts
+#EXTINF:0 type="stream" channelId="-1", SIC NOTICIAS  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/883.ts
+#EXTINF:0 type="stream" channelId="-1", RTP 1  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/890.ts
+#EXTINF:0 type="stream" channelId="-1", CAÃ&#8225;A E PESCA   IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1097.ts
+#EXTINF:0 type="stream" channelId="-1", TOROS TV  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1519.ts
+#EXTINF:0 type="stream" channelId="-1", TVI 24 Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1443.ts
+#EXTINF:0 type="stream" channelId="-1", AXN BLACK HD  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1522.ts
+#EXTINF:0 type="stream" channelId="-1", FOX COMEDY HD  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1079.ts
+#EXTINF:0 type="stream" channelId="-1", FOX MOVIES Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1445.ts
+#EXTINF:0 type="stream" channelId="-1", SIC NOTICIAS Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1437.ts
+#EXTINF:0 type="stream" channelId="-1", FOX LIFE HD  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1082.ts
+#EXTINF:0 type="stream" channelId="-1", SIC MULHER  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/864.ts
+#EXTINF:0 type="stream" channelId="-1", SIC  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/880.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL Q  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1101.ts
+#EXTINF:0 type="stream" channelId="-1", VH1  IPTVultra.com [704x576]
+http://144.217.76.96:8003/live/armindo/armindo/1062.ts
+#EXTINF:0 type="stream" channelId="-1", BTV Mobile  IPTVultra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1442.ts
+#EXTINF:0 type="stream" channelId="-1", MTV DANCE  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1076.ts
+#EXTINF:0 type="stream" channelId="-1", RTP 1 Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1402.ts
+#EXTINF:0 type="stream" channelId="-1", SIC K  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1091.ts
+#EXTINF:0 type="stream" channelId="-1", AXN Mobile  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1456.ts
+#EXTINF:0 type="stream" channelId="-1", HOLLYWOOD  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/872.ts
+#EXTINF:0 type="stream" channelId="-1", BTV  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/885.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 4  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/874.ts
+#EXTINF:0 type="stream" channelId="-1", DISNEY JUNIOR  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/860.ts
+#EXTINF:0 type="stream" channelId="-1", CMTV  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/887.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 3  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/876.ts
+#EXTINF:0 type="stream" channelId="-1", TV GLOBO PREMIUM  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/878.ts
+#EXTINF:0 type="stream" channelId="-1", JIM JAM  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1300.ts
+#EXTINF:0 type="stream" channelId="-1", PANDA BIGGS  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1139.ts
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY CHANNEL  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/869.ts
+#EXTINF:0 type="stream" channelId="-1", PORTO CANAL  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/888.ts
+#EXTINF:0 type="stream" channelId="-1", CARTOON NETWORK  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1291.ts
+#EXTINF:0 type="stream" channelId="-1", HOLLYWOOD Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1438.ts
+#EXTINF:0 type="stream" channelId="-1", CBS REALITY  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1525.ts
+#EXTINF:0 type="stream" channelId="-1", RTP MEMORIA  IPTVultra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1093.ts
+#EXTINF:0 type="stream" channelId="-1", TVI Mobile  IPTVultra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1401.ts
+#EXTINF:0 type="stream" channelId="-1", ODISSEIA Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1440.ts
+#EXTINF:0 type="stream" channelId="-1", AMC  IPTVultra.com [704x576]
+http://144.217.76.96:8003/live/armindo/armindo/1096.ts
+#EXTINF:0 type="stream" channelId="-1", EUROSPORT 1  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1133.ts
+#EXTINF:0 type="stream" channelId="-1", TV SERIES HD  IPTVultra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1526.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV + HD  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1520.ts
+#EXTINF:0 type="stream" channelId="-1", MTV PORTUGAL  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/871.ts
+#EXTINF:0 type="stream" channelId="-1", FOX CRIME  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1080.ts
+#EXTINF:0 type="stream" channelId="-1", TV CINE 3  IPTVultra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1088.ts
+#EXTINF:0 type="stream" channelId="-1", TRAVEL CHANNEL  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1061.ts
+#EXTINF:0 type="stream" channelId="-1", CNN  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/856.ts
+#EXTINF:0 type="stream" channelId="-1", A&E  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1095.ts
+#EXTINF:0 type="stream" channelId="-1", A BOLA TV  IPTVultra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1094.ts
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY SHOWCASE HD  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1131.ts
+#EXTINF:0 type="stream" channelId="-1", TLC  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1068.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL PANDA  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/884.ts
+#EXTINF:0 type="stream" channelId="-1", TVI 24  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/877.ts
+#EXTINF:0 type="stream" channelId="-1", NAT GEO WILD  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/889.ts
+#EXTINF:0 type="stream" channelId="-1", ODISSEIA  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/868.ts
+#EXTINF:0 type="stream" channelId="-1", TRACE URBAN  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1518.ts
+#EXTINF:0 type="stream" channelId="-1", FRANCE 24  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/862.ts
+#EXTINF:0 type="stream" channelId="-1", TV CINE 2  IPTVultra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1086.ts
+#EXTINF:0 type="stream" channelId="-1", CAÃ&#8225;AVISION  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1098.ts
+#EXTINF:0 type="stream" channelId="-1", DISNEY CHANNEL  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1102.ts
+#EXTINF:0 type="stream" channelId="-1", E! ENTERTAINMENT  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/881.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL PANDA Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1436.ts
+#EXTINF:0 type="stream" channelId="-1", NICKELODEON  IPTVultra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1078.ts
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY CHANNEL Mobile  IPTVultra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1455.ts
+#EXTINF:0 type="stream" channelId="-1", TV2  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/91.ts
+#EXTINF:0 type="stream" channelId="-1", Alsat M  IPTVultra.com [880x480]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/133.ts
+#EXTINF:0 type="stream" channelId="-1", Nasha TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/146.ts
+#EXTINF:0 type="stream" channelId="-1", Syri Blue HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/128.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Shenja  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/11.ts
+#EXTINF:0 type="stream" channelId="-1", Vesti 24  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/134.ts
+#EXTINF:0 type="stream" channelId="-1", TV Festa Kumanov  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/147.ts
+#EXTINF:0 type="stream" channelId="-1", Koha TV  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/92.ts
+#EXTINF:0 type="stream" channelId="-1", Kanal 5 Plus  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/101.ts
+#EXTINF:0 type="stream" channelId="-1", Sitel 3  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/96.ts
+#EXTINF:0 type="stream" channelId="-1", TV TELMA  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/97.ts
+#EXTINF:0 type="stream" channelId="-1", KANAL 5  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/102.ts
+#EXTINF:0 type="stream" channelId="-1", ALFA MK  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/135.ts
+#EXTINF:0 type="stream" channelId="-1", Balkanika  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/86.ts
+#EXTINF:0 type="stream" channelId="-1", NOVA TV  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/136.ts
+#EXTINF:0 type="stream" channelId="-1", MKTV 1  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/100.ts
+#EXTINF:0 type="stream" channelId="-1", TV TETOVA HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/123.ts
+#EXTINF:0 type="stream" channelId="-1", MKTV 2  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/99.ts
+#EXTINF:0 type="stream" channelId="-1", ART TV  IPTVultra.com [672x368]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/144.ts
+#EXTINF:0 type="stream" channelId="-1", Folk MK  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/145.ts
+#EXTINF:0 type="stream" channelId="-1", PEACE TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/69.ts
+#EXTINF:0 type="stream" channelId="-1", Meka TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/71.ts
+#EXTINF:0 type="stream" channelId="-1", Rtv 21 Maqedoni  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/10.ts
+#EXTINF:0 type="stream" channelId="-1", Vizioni Plus  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/13.ts
+#EXTINF:0 type="stream" channelId="-1", Era Tv  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/93.ts
+#EXTINF:0 type="stream" channelId="-1", Tring World HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/25.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Jolly HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/28.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Fantasy HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/21.ts
+#EXTINF:0 type="stream" channelId="-1", Tring 3 PLUS  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/31.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Living HD  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/30.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport 1 HD  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/118.ts
+#EXTINF:0 type="stream" channelId="-1", Tirana Tv  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/24.ts
+#EXTINF:0 type="stream" channelId="-1", A1 Shqiptare  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/27.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Super HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/20.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport 3 HD  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/120.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Opoja  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/55.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Smile HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/29.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Tring  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/148.ts
+#EXTINF:0 type="stream" channelId="-1", A1 Shqiptare  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/127.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold  IPTVultra.com [864x640]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/14.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 2  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/16.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 1  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/15.ts
+#EXTINF:0 type="stream" channelId="-1", Top Estrada Tv  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/117.ts
+#EXTINF:0 type="stream" channelId="-1", ZJAR TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/54.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Aksion  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/39.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Thriler  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/41.ts
+#EXTINF:0 type="stream" channelId="-1", Top Estrada Tv  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/17.ts
+#EXTINF:0 type="stream" channelId="-1", Eurosport 1  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/137.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Humor 2 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/48.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Aksion  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/32.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Movies  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/43.ts
+#EXTINF:0 type="stream" channelId="-1", Eurosport 2  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/138.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Western  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/40.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH FILM  IPTVultra.com [720x416]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/51.ts
+#EXTINF:0 type="stream" channelId="-1", Vesti 24  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/34.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Thriller  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/57.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH Sport  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/73.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Premium 2 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/61.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold  IPTVultra.com [864x640]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/4.ts
+#EXTINF:0 type="stream" channelId="-1", ALB HINDI  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/42.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Action  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/68.ts
+#EXTINF:0 type="stream" channelId="-1", Elrodi TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/53.ts
+#EXTINF:0 type="stream" channelId="-1", TV Festa Kumanov  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/47.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH Muzik  IPTVultra.com [720x416]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/52.ts
+#EXTINF:0 type="stream" channelId="-1", Show tv hd  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/108.ts
+#EXTINF:0 type="stream" channelId="-1", STAR TV HD  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/109.ts
+#EXTINF:0 type="stream" channelId="-1", ATV HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/111.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH 3  IPTVultra.com [720x416]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/49.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Premium 1 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/62.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH ART  IPTVultra.com [720x416]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/50.ts
+#EXTINF:0 type="stream" channelId="-1", Fox HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/113.ts
+#EXTINF:0 type="stream" channelId="-1", TRT Musik  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/106.ts
+#EXTINF:0 type="stream" channelId="-1", Kanal D HD  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/110.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Comedy  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/67.ts
+#EXTINF:0 type="stream" channelId="-1", POWER HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/88.ts
+#EXTINF:0 type="stream" channelId="-1", Tivibu Sport 2  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/83.ts
+#EXTINF:0 type="stream" channelId="-1", DSMART SPORT 2  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/85.ts
+#EXTINF:0 type="stream" channelId="-1", dream TV TURK HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/89.ts
+#EXTINF:0 type="stream" channelId="-1", DSMART SPORT 1  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/84.ts
+#EXTINF:0 type="stream" channelId="-1", Trt Haber  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/107.ts
+#EXTINF:0 type="stream" channelId="-1", Tivibu Sport 1  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7057F2CBdb/7057F2CBdb/82.ts
+#EXTINF:0 type="stream" channelId="-1", TV2  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/91.ts
+#EXTINF:0 type="stream" channelId="-1", Alsat M  IPTVultra.com [880x480]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/133.ts
+#EXTINF:0 type="stream" channelId="-1", TV Festa Kumanov  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/147.ts
+#EXTINF:0 type="stream" channelId="-1", Sitel 3  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/96.ts
+#EXTINF:0 type="stream" channelId="-1", TV TETOVA HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/123.ts
+#EXTINF:0 type="stream" channelId="-1", KANAL 5  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/102.ts
+#EXTINF:0 type="stream" channelId="-1", ALFA MK  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/135.ts
+#EXTINF:0 type="stream" channelId="-1", MKTV 2  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/99.ts
+#EXTINF:0 type="stream" channelId="-1", PEACE TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/69.ts
+#EXTINF:0 type="stream" channelId="-1", Folk MK  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/145.ts
+#EXTINF:0 type="stream" channelId="-1", Nasha TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/146.ts
+#EXTINF:0 type="stream" channelId="-1", Kanal 5 Plus  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/101.ts
+#EXTINF:0 type="stream" channelId="-1", Balkanika  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/86.ts
+#EXTINF:0 type="stream" channelId="-1", NOVA TV  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/136.ts
+#EXTINF:0 type="stream" channelId="-1", Syri Blue HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/128.ts
+#EXTINF:0 type="stream" channelId="-1", TV TELMA  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/97.ts
+#EXTINF:0 type="stream" channelId="-1", Vizioni Plus  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/13.ts
+#EXTINF:0 type="stream" channelId="-1", MKTV 1  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/100.ts
+#EXTINF:0 type="stream" channelId="-1", Rtv 21 Maqedoni  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/10.ts
+#EXTINF:0 type="stream" channelId="-1", Vesti 24  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/134.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Shenja  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/11.ts
+#EXTINF:0 type="stream" channelId="-1", Era Tv  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/93.ts
+#EXTINF:0 type="stream" channelId="-1", ART TV  IPTVultra.com [672x368]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/144.ts
+#EXTINF:0 type="stream" channelId="-1", Meka TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/71.ts
+#EXTINF:0 type="stream" channelId="-1", Vizioni Plus  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/3.ts
+#EXTINF:0 type="stream" channelId="-1", Koha TV  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/92.ts
+#EXTINF:0 type="stream" channelId="-1", Tring World HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/25.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Jolly HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/28.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Fantasy HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/21.ts
+#EXTINF:0 type="stream" channelId="-1", Tring 3 PLUS  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/31.ts
+#EXTINF:0 type="stream" channelId="-1", Tirana Tv  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/124.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport 1 HD  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/118.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Living HD  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/30.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Planet  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/26.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport 3 HD  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/120.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Opoja  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/55.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Smile HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/29.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Super HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/20.ts
+#EXTINF:0 type="stream" channelId="-1", Tirana Tv  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/24.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Comedy HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/22.ts
+#EXTINF:0 type="stream" channelId="-1", A1 Shqiptare  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/127.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold  IPTVultra.com [864x640]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/14.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 1  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/15.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 2  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/16.ts
+#EXTINF:0 type="stream" channelId="-1", Top Estrada Tv  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/117.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Humor 2 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/48.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Aksion  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/32.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Aksion  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/39.ts
+#EXTINF:0 type="stream" channelId="-1", ZJAR TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/54.ts
+#EXTINF:0 type="stream" channelId="-1", TV Festa Kumanov  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/47.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Western  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/40.ts
+#EXTINF:0 type="stream" channelId="-1", ALB HINDI  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/42.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH FILM  IPTVultra.com [720x416]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/51.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Thriler  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/41.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold  IPTVultra.com [864x640]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/4.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH Sport  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/73.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH ART  IPTVultra.com [720x416]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/50.ts
+#EXTINF:0 type="stream" channelId="-1", Elrodi TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/53.ts
+#EXTINF:0 type="stream" channelId="-1", Vesti 24  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/34.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH Muzik  IPTVultra.com [720x416]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/52.ts
+#EXTINF:0 type="stream" channelId="-1", Show tv hd  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/108.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Thriller  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/57.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH 3  IPTVultra.com [720x416]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/49.ts
+#EXTINF:0 type="stream" channelId="-1", STAR TV HD  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/109.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Premium 1 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/62.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Premium 2 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/61.ts
+#EXTINF:0 type="stream" channelId="-1", Fox HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/113.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Action  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/68.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Comedy  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/67.ts
+#EXTINF:0 type="stream" channelId="-1", Kanal D HD  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/110.ts
+#EXTINF:0 type="stream" channelId="-1", ATV HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/111.ts
+#EXTINF:0 type="stream" channelId="-1", POWER HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/88.ts
+#EXTINF:0 type="stream" channelId="-1", Tivibu Sport 2  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/83.ts
+#EXTINF:0 type="stream" channelId="-1", TRT Musik  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/106.ts
+#EXTINF:0 type="stream" channelId="-1", Lig Tv  2 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/81.ts
+#EXTINF:0 type="stream" channelId="-1", Trt Turk  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/105.ts
+#EXTINF:0 type="stream" channelId="-1", TRT 1 HD  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/104.ts
+#EXTINF:0 type="stream" channelId="-1", Trt Haber  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/107.ts
+#EXTINF:0 type="stream" channelId="-1", Lig Tv  1 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/80.ts
+#EXTINF:0 type="stream" channelId="-1", Tivibu Sport 1  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/82.ts
+#EXTINF:0 type="stream" channelId="-1", dream TV TURK HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7061F2CBdb/7061F2CBdb/89.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Shenja  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/11.ts
+#EXTINF:0 type="stream" channelId="-1", Koha TV  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/92.ts
+#EXTINF:0 type="stream" channelId="-1", Balkanika  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/86.ts
+#EXTINF:0 type="stream" channelId="-1", MKTV 2  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/99.ts
+#EXTINF:0 type="stream" channelId="-1", TV TETOVA HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/123.ts
+#EXTINF:0 type="stream" channelId="-1", Alsat M  IPTVultra.com [880x480]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/133.ts
+#EXTINF:0 type="stream" channelId="-1", TV Festa Kumanov  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/147.ts
+#EXTINF:0 type="stream" channelId="-1", KANAL 5  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/102.ts
+#EXTINF:0 type="stream" channelId="-1", Kanal 5 Plus  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/101.ts
+#EXTINF:0 type="stream" channelId="-1", Sitel 3  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/96.ts
+#EXTINF:0 type="stream" channelId="-1", TV TELMA  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/97.ts
+#EXTINF:0 type="stream" channelId="-1", NOVA TV  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/136.ts
+#EXTINF:0 type="stream" channelId="-1", Vesti 24  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/134.ts
+#EXTINF:0 type="stream" channelId="-1", ALFA MK  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/135.ts
+#EXTINF:0 type="stream" channelId="-1", Era Tv  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/93.ts
+#EXTINF:0 type="stream" channelId="-1", PEACE TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/69.ts
+#EXTINF:0 type="stream" channelId="-1", Folk MK  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/145.ts
+#EXTINF:0 type="stream" channelId="-1", Nasha TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/146.ts
+#EXTINF:0 type="stream" channelId="-1", Vizioni Plus  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/13.ts
+#EXTINF:0 type="stream" channelId="-1", Meka TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/71.ts
+#EXTINF:0 type="stream" channelId="-1", Rtv 21 Maqedoni  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/10.ts
+#EXTINF:0 type="stream" channelId="-1", MKTV 1  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/100.ts
+#EXTINF:0 type="stream" channelId="-1", Syri Blue HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/128.ts
+#EXTINF:0 type="stream" channelId="-1", ART TV  IPTVultra.com [672x368]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/144.ts
+#EXTINF:0 type="stream" channelId="-1", TV2  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/91.ts
+#EXTINF:0 type="stream" channelId="-1", Tring World HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/25.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Jolly HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/28.ts
+#EXTINF:0 type="stream" channelId="-1", Vizioni Plus  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/3.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Fantasy HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/21.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Planet  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/26.ts
+#EXTINF:0 type="stream" channelId="-1", Tring 3 PLUS  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/31.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport 1 HD  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/118.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Comedy HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/22.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Opoja  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/55.ts
+#EXTINF:0 type="stream" channelId="-1", A1 Shqiptare  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/27.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Max HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/19.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Smile HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/29.ts
+#EXTINF:0 type="stream" channelId="-1", TV Dibra  IPTVultra.com [640x480]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/95.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Tring  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/148.ts
+#EXTINF:0 type="stream" channelId="-1", A1 Shqiptare  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/127.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 1  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/15.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold  IPTVultra.com [864x640]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/14.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Humor 2 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/48.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 2  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/16.ts
+#EXTINF:0 type="stream" channelId="-1", Top Estrada Tv  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/117.ts
+#EXTINF:0 type="stream" channelId="-1", Folk MK  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/45.ts
+#EXTINF:0 type="stream" channelId="-1", TV Festa Kumanov  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/47.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Aksion  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/32.ts
+#EXTINF:0 type="stream" channelId="-1", A1 Ballkan Sr  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/125.ts
+#EXTINF:0 type="stream" channelId="-1", Vesti 24  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/34.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Thriler  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/41.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Movies  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/43.ts
+#EXTINF:0 type="stream" channelId="-1", ALB HINDI  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/42.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH Sport  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/73.ts
+#EXTINF:0 type="stream" channelId="-1", Elrodi TV  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/53.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Thriller  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/57.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Premium 2 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/61.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Action  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/68.ts
+#EXTINF:0 type="stream" channelId="-1", Show tv hd  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/108.ts
+#EXTINF:0 type="stream" channelId="-1", STAR TV HD  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/109.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH ART  IPTVultra.com [720x416]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/50.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Premium 1 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/62.ts
+#EXTINF:0 type="stream" channelId="-1", ATV HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/111.ts
+#EXTINF:0 type="stream" channelId="-1", Fox HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/113.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Comedy  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/67.ts
+#EXTINF:0 type="stream" channelId="-1", Kanal D HD  IPTVultra.com [640x368]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/110.ts
+#EXTINF:0 type="stream" channelId="-1", Tivibu Sport 2  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/83.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold  IPTVultra.com [864x640]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/4.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH 3  IPTVultra.com [720x416]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/49.ts
+#EXTINF:0 type="stream" channelId="-1", TRT Musik  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/106.ts
+#EXTINF:0 type="stream" channelId="-1", Lig Tv  1 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/80.ts
+#EXTINF:0 type="stream" channelId="-1", Trt Turk  IPTVultra.com [1024x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/105.ts
+#EXTINF:0 type="stream" channelId="-1", TRT 1 HD  IPTVultra.com [1920x1088]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/104.ts
+#EXTINF:0 type="stream" channelId="-1", dream TV TURK HD  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/89.ts
+#EXTINF:0 type="stream" channelId="-1", Trt Haber  IPTVultra.com [720x576]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/107.ts
+#EXTINF:0 type="stream" channelId="-1", Lig Tv  2 HD  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/81.ts
+#EXTINF:0 type="stream" channelId="-1", DSMART SPORT 1  IPTVultra.com [1280x720]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/84.ts
+#EXTINF:0 type="stream" channelId="-1", DSMART SPORT 2  IPTVultra.com [864x480]
+http://163.172.183.14:2580/live/7062F2CBdb/7062F2CBdb/85.ts
+#EXTINF:0 type="stream" channelId="-1", Klan HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/107.ts
+#EXTINF:0 type="stream" channelId="-1", Klan Full HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2049.ts
+#EXTINF:0 type="stream" channelId="-1", Scan Al  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1620.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/162.ts
+#EXTINF:0 type="stream" channelId="-1", RTK 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/913.ts
+#EXTINF:0 type="stream" channelId="-1", Klan Plus  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/32.ts
+#EXTINF:0 type="stream" channelId="-1", Klan Kosova  IPTVultra.com [992x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/932.ts
+#EXTINF:0 type="stream" channelId="-1", Tema Tv  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/928.ts
+#EXTINF:0 type="stream" channelId="-1", Top Channel Full HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2050.ts
+#EXTINF:0 type="stream" channelId="-1", News 24 HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1678.ts
+#EXTINF:0 type="stream" channelId="-1", A1 Report  IPTVultra.com [800x464]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/927.ts
+#EXTINF:0 type="stream" channelId="-1", Ora News HD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/728.ts
+#EXTINF:0 type="stream" channelId="-1", RTV 21  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/933.ts
+#EXTINF:0 type="stream" channelId="-1", RTK  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/935.ts
+#EXTINF:0 type="stream" channelId="-1", Channel One  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/911.ts
+#EXTINF:0 type="stream" channelId="-1", Vizion Plus HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/880.ts
+#EXTINF:0 type="stream" channelId="-1", VIZION PLUS  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1730.ts
+#EXTINF:0 type="stream" channelId="-1", UTV News  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1619.ts
+#EXTINF:0 type="stream" channelId="-1", Klan kosova HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1008.ts
+#EXTINF:0 type="stream" channelId="-1", Rtk 3  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/820.ts
+#EXTINF:0 type="stream" channelId="-1", Kombi  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/40.ts
+#EXTINF:0 type="stream" channelId="-1", ARTA TV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/912.ts
+#EXTINF:0 type="stream" channelId="-1", Rtsh 3  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/856.ts
+#EXTINF:0 type="stream" channelId="-1", Tvsh  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/108.ts
+#EXTINF:0 type="stream" channelId="-1", VOA  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1621.ts
+#EXTINF:0 type="stream" channelId="-1", 21 Plus  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/725.ts
+#EXTINF:0 type="stream" channelId="-1", Top Channel HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/106.ts
+#EXTINF:0 type="stream" channelId="-1", Baby Tv  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/3.ts
+#EXTINF:0 type="stream" channelId="-1", Sot 7 Pogradec  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/999.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Komedi  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/39.ts
+#EXTINF:0 type="stream" channelId="-1", IN TV  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/837.ts
+#EXTINF:0 type="stream" channelId="-1", KTV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/934.ts
+#EXTINF:0 type="stream" channelId="-1", Rrokum HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/717.ts
+#EXTINF:0 type="stream" channelId="-1", SAT 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/47.ts
+#EXTINF:0 type="stream" channelId="-1", Zjarr Tv  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/812.ts
+#EXTINF:0 type="stream" channelId="-1", CLICK TV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/930.ts
+#EXTINF:0 type="stream" channelId="-1", BCTV Europe  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1622.ts
+#EXTINF:0 type="stream" channelId="-1", Jug Tv  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/238.ts
+#EXTINF:0 type="stream" channelId="-1", First Tv  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/936.ts
+#EXTINF:0 type="stream" channelId="-1", Rrokum HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/7.ts
+#EXTINF:0 type="stream" channelId="-1", Tribuna  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1050.ts
+#EXTINF:0 type="stream" channelId="-1", ALBTV USA  IPTVultra.com [720x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1630.ts
+#EXTINF:0 type="stream" channelId="-1", City Tv  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/15.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Muzik  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1520.ts
+#EXTINF:0 type="stream" channelId="-1", Vlora 1  IPTVultra.com [480x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/94.ts
+#EXTINF:0 type="stream" channelId="-1", TVE 1 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/181.ts
+#EXTINF:0 type="stream" channelId="-1", Vizion+ EST USA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/9.ts
+#EXTINF:0 type="stream" channelId="-1", RTB Bujanoc  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1610.ts
+#EXTINF:0 type="stream" channelId="-1", Tetova Muzik  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1588.ts
+#EXTINF:0 type="stream" channelId="-1", TV Cameria  IPTVultra.com [720x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/862.ts
+#EXTINF:0 type="stream" channelId="-1", TV Mitrovica  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1629.ts
+#EXTINF:0 type="stream" channelId="-1", Alsat M B  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/985.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Opoja  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/937.ts
+#EXTINF:0 type="stream" channelId="-1", Film Dy SD  IPTVultra.com [320x176]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/5.ts
+#EXTINF:0 type="stream" channelId="-1", Peace Tv  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/860.ts
+#EXTINF:0 type="stream" channelId="-1", KLAN EST USA  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/876.ts
+#EXTINF:0 type="stream" channelId="-1", Vizion+ EST USA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/879.ts
+#EXTINF:0 type="stream" channelId="-1", News 24 EST  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/922.ts
+#EXTINF:0 type="stream" channelId="-1", Plus TV  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1837.ts
+#EXTINF:0 type="stream" channelId="-1", Abc News EST  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2041.ts
+#EXTINF:0 type="stream" channelId="-1", Alsat M EST USA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/877.ts
+#EXTINF:0 type="stream" channelId="-1", Besa Tv  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2180.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Humor  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/938.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Humor 2  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1052.ts
+#EXTINF:0 type="stream" channelId="-1", Top Channel EST USA  IPTVultra.com [1024x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/873.ts
+#EXTINF:0 type="stream" channelId="-1", Vlora 1  IPTVultra.com [480x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1594.ts
+#EXTINF:0 type="stream" channelId="-1", Cufo  IPTVultra.com [480x272]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/13.ts
+#EXTINF:0 type="stream" channelId="-1", Bang Bang  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/12.ts
+#EXTINF:0 type="stream" channelId="-1", Tibo Kids  IPTVultra.com [768x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2034.ts
+#EXTINF:0 type="stream" channelId="-1", Baby Tv  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/783.ts
+#EXTINF:0 type="stream" channelId="-1", Disney Channel  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/853.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Kids  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1049.ts
+#EXTINF:0 type="stream" channelId="-1", Islam Tv  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1721.ts
+#EXTINF:0 type="stream" channelId="-1", Antena Tv  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1521.ts
+#EXTINF:0 type="stream" channelId="-1", Explorer Natyre  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/18.ts
+#EXTINF:0 type="stream" channelId="-1", TLC  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/727.ts
+#EXTINF:0 type="stream" channelId="-1", Discovery AL  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1057.ts
+#EXTINF:0 type="stream" channelId="-1", FOKUS  IPTVultra.com [480x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1060.ts
+#EXTINF:0 type="stream" channelId="-1", National Geographic AL  IPTVultra.com [704x400]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/768.ts
+#EXTINF:0 type="stream" channelId="-1", Apollon TV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1590.ts
+#EXTINF:0 type="stream" channelId="-1", 24 Kitchen  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/906.ts
+#EXTINF:0 type="stream" channelId="-1", Shenja Tv  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/904.ts
+#EXTINF:0 type="stream" channelId="-1", Dasma Tv  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/811.ts
+#EXTINF:0 type="stream" channelId="-1", City Tv  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/715.ts
+#EXTINF:0 type="stream" channelId="-1", Ballkanika  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/827.ts
+#EXTINF:0 type="stream" channelId="-1", LUXE TV  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/6.ts
+#EXTINF:0 type="stream" channelId="-1", Planeta Tv  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1045.ts
+#EXTINF:0 type="stream" channelId="-1", Supersonic Tv  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/24.ts
+#EXTINF:0 type="stream" channelId="-1", Super Folk  IPTVultra.com [640x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/38.ts
+#EXTINF:0 type="stream" channelId="-1", elrodi  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/43.ts
+#EXTINF:0 type="stream" channelId="-1", Folklorit  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/156.ts
+#EXTINF:0 type="stream" channelId="-1", Real Tv  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2036.ts
+#EXTINF:0 type="stream" channelId="-1", Music Al  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/863.ts
+#EXTINF:0 type="stream" channelId="-1", MFM music  IPTVultra.com [1088x608]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1623.ts
+#EXTINF:0 type="stream" channelId="-1", Star Tv Music  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1627.ts
+#EXTINF:0 type="stream" channelId="-1", MUZIKE HITE  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1626.ts
+#EXTINF:0 type="stream" channelId="-1", Plus HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/770.ts
+#EXTINF:0 type="stream" channelId="-1", Film Nje HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/998.ts
+#EXTINF:0 type="stream" channelId="-1", Rrokum HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/17.ts
+#EXTINF:0 type="stream" channelId="-1", Film Nje SD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/994.ts
+#EXTINF:0 type="stream" channelId="-1", Film Dy SD  IPTVultra.com [320x176]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/995.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Planet  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1932.ts
+#EXTINF:0 type="stream" channelId="-1", AVN  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1059.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Shqip  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1741.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Novela  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1519.ts
+#EXTINF:0 type="stream" channelId="-1", Sky AL Aksion  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1614.ts
+#EXTINF:0 type="stream" channelId="-1", USA:TSN 5  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/212.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Komedi  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/939.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Premiere 1 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/767.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Premiere 2 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/925.ts
+#EXTINF:0 type="stream" channelId="-1", TV Istogu HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2190.ts
+#EXTINF:0 type="stream" channelId="-1", 4 HD Digitalb Kudo  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/16.ts
+#EXTINF:0 type="stream" channelId="-1", Klan Kosova EST  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2039.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Dark  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1001.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Thriller  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1568.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Drama  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/857.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Aksion  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/175.ts
+#EXTINF:0 type="stream" channelId="-1", Fox AL  IPTVultra.com [1024x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/996.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Life Al  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1063.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Premiere 3 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1002.ts
+#EXTINF:0 type="stream" channelId="-1", ShqipTV Movie HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1527.ts
+#EXTINF:0 type="stream" channelId="-1", ShqipTV Hindi HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1526.ts
+#EXTINF:0 type="stream" channelId="-1", ShqipTV Horror HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1525.ts
+#EXTINF:0 type="stream" channelId="-1", Sky AL DramÃ&#171;  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1615.ts
+#EXTINF:0 type="stream" channelId="-1", ALB TV Comedy  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1611.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/191.ts
+#EXTINF:0 type="stream" channelId="-1", ShqipTV Fantasy HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1529.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Sci Fi  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1000.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Max AL  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2204.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1530.ts
+#EXTINF:0 type="stream" channelId="-1", Film 24 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1518.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 3  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1532.ts
+#EXTINF:0 type="stream" channelId="-1", Syribluehd  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1999.ts
+#EXTINF:0 type="stream" channelId="-1", Scan Al  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/20.ts
+#EXTINF:0 type="stream" channelId="-1", Film Autor  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/192.ts
+#EXTINF:0 type="stream" channelId="-1", A1 Report  IPTVultra.com [800x464]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/27.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Prank HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1732.ts
+#EXTINF:0 type="stream" channelId="-1", Film Thriller  IPTVultra.com [704x400]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/45.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 2  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1531.ts
+#EXTINF:0 type="stream" channelId="-1", SuperSport 1  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/861.ts
+#EXTINF:0 type="stream" channelId="-1", Sky AL Aksion  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/14.ts
+#EXTINF:0 type="stream" channelId="-1", SuperSport 2 HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/154.ts
+#EXTINF:0 type="stream" channelId="-1", TVSH EST  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1628.ts
+#EXTINF:0 type="stream" channelId="-1", Film Aksion SD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/993.ts
+#EXTINF:0 type="stream" channelId="-1", SuperSport 4 HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/722.ts
+#EXTINF:0 type="stream" channelId="-1", Supersport 5 HD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/168.ts
+#EXTINF:0 type="stream" channelId="-1", TRAVEL CHANNEL  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/983.ts
+#EXTINF:0 type="stream" channelId="-1", Supersport 6 HD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/742.ts
+#EXTINF:0 type="stream" channelId="-1", Film Drame  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/46.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 2  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/31.ts
+#EXTINF:0 type="stream" channelId="-1", VOA  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/21.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold 4  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1533.ts
+#EXTINF:0 type="stream" channelId="-1", 3 Plus  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/173.ts
+#EXTINF:0 type="stream" channelId="-1", Smile  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/752.ts
+#EXTINF:0 type="stream" channelId="-1", Alb Thriller  HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1733.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Kids  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2037.ts
+#EXTINF:0 type="stream" channelId="-1", SOFIA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/929.ts
+#EXTINF:0 type="stream" channelId="-1", Supersport 3 HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/720.ts
+#EXTINF:0 type="stream" channelId="-1", ShqipTV Western HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1523.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Opoja  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/37.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Fantasy  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/721.ts
+#EXTINF:0 type="stream" channelId="-1", Supersport 6 HD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/42.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Life  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/713.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Super  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/716.ts
+#EXTINF:0 type="stream" channelId="-1", Film Shqip  IPTVultra.com [704x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1625.ts
+#EXTINF:0 type="stream" channelId="-1", Ora News HD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/28.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport News  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/232.ts
+#EXTINF:0 type="stream" channelId="-1", Top Music  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1998.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/714.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/769.ts
+#EXTINF:0 type="stream" channelId="-1", UTV News  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/19.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport 4  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/814.ts
+#EXTINF:0 type="stream" channelId="-1", Tring Sport 3  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/54.ts
+#EXTINF:0 type="stream" channelId="-1", 24 Vesti  IPTVultra.com [1056x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/914.ts
+#EXTINF:0 type="stream" channelId="-1", ALB FILM SHQIP HD  IPTVultra.com [544x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/874.ts
+#EXTINF:0 type="stream" channelId="-1", Klan Plus  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2.ts
+#EXTINF:0 type="stream" channelId="-1", SKY STAR TV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2187.ts
+#EXTINF:0 type="stream" channelId="-1", Top Estrada  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1589.ts
+#EXTINF:0 type="stream" channelId="-1", SITEL 3  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/908.ts
+#EXTINF:0 type="stream" channelId="-1", First Tv  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/36.ts
+#EXTINF:0 type="stream" channelId="-1", Alfa MK  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/800.ts
+#EXTINF:0 type="stream" channelId="-1", Max Tv  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2048.ts
+#EXTINF:0 type="stream" channelId="-1", Intv au MK  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1390.ts
+#EXTINF:0 type="stream" channelId="-1", Tv Nova MK  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/875.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Nova  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1684.ts
+#EXTINF:0 type="stream" channelId="-1", ShqipTV Stupcat HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1528.ts
+#EXTINF:0 type="stream" channelId="-1", Flash TV  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/65.ts
+#EXTINF:0 type="stream" channelId="-1", BCTV Europe  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/22.ts
+#EXTINF:0 type="stream" channelId="-1", Ora News HD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/8.ts
+#EXTINF:0 type="stream" channelId="-1", Disney Channel  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/53.ts
+#EXTINF:0 type="stream" channelId="-1", TOP MUSIC HITS 2017 (music only)  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1681.ts
+#EXTINF:0 type="stream" channelId="-1", CLICK TV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/30.ts
+#EXTINF:0 type="stream" channelId="-1", LUXE TV  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/926.ts
+#EXTINF:0 type="stream" channelId="-1", Nova TV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/100.ts
+#EXTINF:0 type="stream" channelId="-1", Diema Sport 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1691.ts
+#EXTINF:0 type="stream" channelId="-1", AXN  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/169.ts
+#EXTINF:0 type="stream" channelId="-1", Ziko Tv  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2186.ts
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/34.ts
+#EXTINF:0 type="stream" channelId="-1", RTL LIVING  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2060.ts
+#EXTINF:0 type="stream" channelId="-1", PRVA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/230.ts
+#EXTINF:0 type="stream" channelId="-1", Tribuna  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/50.ts
+#EXTINF:0 type="stream" channelId="-1", RTS 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/150.ts
+#EXTINF:0 type="stream" channelId="-1", FightBox HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2191.ts
+#EXTINF:0 type="stream" channelId="-1", MBC ACTION  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/903.ts
+#EXTINF:0 type="stream" channelId="-1", Rts 2  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/765.ts
+#EXTINF:0 type="stream" channelId="-1", B92  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/151.ts
+#EXTINF:0 type="stream" channelId="-1", FILM 1 SPORTLIGHT  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/74.ts
+#EXTINF:0 type="stream" channelId="-1", Sky AL ShkencÃ&#171;  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1613.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL J  IPTVultra.com [1040x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/35.ts
+#EXTINF:0 type="stream" channelId="-1", Hayat HD  IPTVultra.com [1024x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/997.ts
+#EXTINF:0 type="stream" channelId="-1", NR 1 Serb  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/761.ts
+#EXTINF:0 type="stream" channelId="-1", Pink 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/867.ts
+#EXTINF:0 type="stream" channelId="-1", Pink 3  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/764.ts
+#EXTINF:0 type="stream" channelId="-1", RTV 21  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/33.ts
+#EXTINF:0 type="stream" channelId="-1", Pink Premium  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/868.ts
+#EXTINF:0 type="stream" channelId="-1", Digi Gold  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/91.ts
+#EXTINF:0 type="stream" channelId="-1", PINK CRIME&MYSTERY  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/730.ts
+#EXTINF:0 type="stream" channelId="-1", bTV Cinema  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1689.ts
+#EXTINF:0 type="stream" channelId="-1", Pink Plus  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/756.ts
+#EXTINF:0 type="stream" channelId="-1", Pink Extra  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/763.ts
+#EXTINF:0 type="stream" channelId="-1", Kanal 5+  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/712.ts
+#EXTINF:0 type="stream" channelId="-1", Film Nje HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/98.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL COCINA  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/90.ts
+#EXTINF:0 type="stream" channelId="-1", NOVA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1683.ts
+#EXTINF:0 type="stream" channelId="-1", Pink BH  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/115.ts
+#EXTINF:0 type="stream" channelId="-1", ShqipTV Cifteli HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1524.ts
+#EXTINF:0 type="stream" channelId="-1", Film Aksion SD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/93.ts
+#EXTINF:0 type="stream" channelId="-1", PInk Horror  IPTVultra.com [480x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/762.ts
+#EXTINF:0 type="stream" channelId="-1", PINK ACTION  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/86.ts
+#EXTINF:0 type="stream" channelId="-1", PINK THRILLER  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/758.ts
+#EXTINF:0 type="stream" channelId="-1", Pink Comedy  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/726.ts
+#EXTINF:0 type="stream" channelId="-1", INTV AU Folk MK  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1929.ts
+#EXTINF:0 type="stream" channelId="-1", Equidia Live HD  IPTVultra.com [768x432]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/699.ts
+#EXTINF:0 type="stream" channelId="-1", Pink Romance  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/866.ts
+#EXTINF:0 type="stream" channelId="-1", HAYAT FOLK  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/229.ts
+#EXTINF:0 type="stream" channelId="-1", bTV Comedy  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1688.ts
+#EXTINF:0 type="stream" channelId="-1", BN MUSIC  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/760.ts
+#EXTINF:0 type="stream" channelId="-1", Tring World  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/772.ts
+#EXTINF:0 type="stream" channelId="-1", Diema sport 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1692.ts
+#EXTINF:0 type="stream" channelId="-1", Discovery World BK  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/757.ts
+#EXTINF:0 type="stream" channelId="-1", Nasa TV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/891.ts
+#EXTINF:0 type="stream" channelId="-1", Cinemax  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/834.ts
+#EXTINF:0 type="stream" channelId="-1", Pink Kids  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/224.ts
+#EXTINF:0 type="stream" channelId="-1", Cinestar 2  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/833.ts
+#EXTINF:0 type="stream" channelId="-1", BNT 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1680.ts
+#EXTINF:0 type="stream" channelId="-1", Cinestar Premiere  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/832.ts
+#EXTINF:0 type="stream" channelId="-1", Nova Sport  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1693.ts
+#EXTINF:0 type="stream" channelId="-1", HBO Comedy  IPTVultra.com [720x560]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/831.ts
+#EXTINF:0 type="stream" channelId="-1", HBO Adria  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/830.ts
+#EXTINF:0 type="stream" channelId="-1", Sport Klub 1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/101.ts
+#EXTINF:0 type="stream" channelId="-1", Sport Klub 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/102.ts
+#EXTINF:0 type="stream" channelId="-1", Sport Klub 3  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/103.ts
+#EXTINF:0 type="stream" channelId="-1", Doma  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/779.ts
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY MAX  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/176.ts
+#EXTINF:0 type="stream" channelId="-1", Canal+ Emotion  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/87.ts
+#EXTINF:0 type="stream" channelId="-1", bTV Action  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1690.ts
+#EXTINF:0 type="stream" channelId="-1", Arena Sport 3 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/171.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 4  IPTVultra.com [1280x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/201.ts
+#EXTINF:0 type="stream" channelId="-1", HBO 2 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/55.ts
+#EXTINF:0 type="stream" channelId="-1", Arena Sport 5 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/816.ts
+#EXTINF:0 type="stream" channelId="-1", Rai 5  IPTVultra.com [624x352]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/97.ts
+#EXTINF:0 type="stream" channelId="-1", RTSH HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/62.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Life Al  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/63.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Atlantic HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/92.ts
+#EXTINF:0 type="stream" channelId="-1", bTV Lady  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1687.ts
+#EXTINF:0 type="stream" channelId="-1", Rai 3 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/120.ts
+#EXTINF:0 type="stream" channelId="-1", Rai  4  IPTVultra.com [1088x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/887.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 6  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/99.ts
+#EXTINF:0 type="stream" channelId="-1", HISTORIA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/178.ts
+#EXTINF:0 type="stream" channelId="-1", Rai 5  IPTVultra.com [624x352]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/197.ts
+#EXTINF:0 type="stream" channelId="-1", Rai Premium  IPTVultra.com [624x352]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/890.ts
+#EXTINF:0 type="stream" channelId="-1", Rai 1 .HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/118.ts
+#EXTINF:0 type="stream" channelId="-1", Rai Movie  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/889.ts
+#EXTINF:0 type="stream" channelId="-1", Cinema Passion HD  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/64.ts
+#EXTINF:0 type="stream" channelId="-1", Fine Living  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1593.ts
+#EXTINF:0 type="stream" channelId="-1", Fen Tv  IPTVultra.com [480x272]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1313.ts
+#EXTINF:0 type="stream" channelId="-1", Rai 2 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/117.ts
+#EXTINF:0 type="stream" channelId="-1", Cinema  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1685.ts
+#EXTINF:0 type="stream" channelId="-1", RSI LA 1 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1592.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Tg 24  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/204.ts
+#EXTINF:0 type="stream" channelId="-1", Italia 1  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/122.ts
+#EXTINF:0 type="stream" channelId="-1", Italia 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/141.ts
+#EXTINF:0 type="stream" channelId="-1", Teleclub Sport 1  IPTVultra.com [912x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2132.ts
+#EXTINF:0 type="stream" channelId="-1", Rete 4  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/123.ts
+#EXTINF:0 type="stream" channelId="-1", Kino Prank HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/732.ts
+#EXTINF:0 type="stream" channelId="-1", Canale 5  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/121.ts
+#EXTINF:0 type="stream" channelId="-1", LA7  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/701.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Uno  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/105.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Italy  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/817.ts
+#EXTINF:0 type="stream" channelId="-1", FOX Life HD Italy  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/989.ts
+#EXTINF:0 type="stream" channelId="-1", Alfa  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1682.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Cinema HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/111.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Studio Universal  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/884.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Joy +1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1309.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Joy +2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1304.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Stories  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/110.ts
+#EXTINF:0 type="stream" channelId="-1", COMEDY CENTRAL  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/189.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Energy  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/109.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Energy +1HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1315.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Crime  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/104.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Emotion  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/44.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Emotion +1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1303.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Emotion +2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1301.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Action  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/112.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Action +24  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1591.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Disney XD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/916.ts
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/134.ts
+#EXTINF:0 type="stream" channelId="-1", tcm  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/172.ts
+#EXTINF:0 type="stream" channelId="-1", Rai YoYo  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/881.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Sport  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/213.ts
+#EXTINF:0 type="stream" channelId="-1", Premium FoxSport  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/828.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Sport 2 +1HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/803.ts
+#EXTINF:0 type="stream" channelId="-1", Rai Sport 1  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/888.ts
+#EXTINF:0 type="stream" channelId="-1", CARTOONITO  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1933.ts
+#EXTINF:0 type="stream" channelId="-1", Cinema+  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1686.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Calcio 1 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/205.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Calcio 2 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/210.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Calcio 3  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/755.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Calcio 6  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/915.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Cinema 1 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/114.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Calcio 4  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/754.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Cinema Family HD  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/116.ts
+#EXTINF:0 type="stream" channelId="-1", SkyCinema Hits  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/132.ts
+#EXTINF:0 type="stream" channelId="-1", Premium Calcio 5  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/753.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Cinema 3D  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1307.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Cinema Comedy HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/163.ts
+#EXTINF:0 type="stream" channelId="-1", Cinema Passion HD  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/164.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Cinema Cult HD  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/931.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Atlantic HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/892.ts
+#EXTINF:0 type="stream" channelId="-1", SKY Discovery  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/127.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Cinema Classic HD  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/146.ts
+#EXTINF:0 type="stream" channelId="-1", Discovery Dmax IT  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1612.ts
+#EXTINF:0 type="stream" channelId="-1", Sky History HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/221.ts
+#EXTINF:0 type="stream" channelId="-1", Rai Gulp  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/124.ts
+#EXTINF:0 type="stream" channelId="-1", NationalGeo HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/223.ts
+#EXTINF:0 type="stream" channelId="-1", MTV Live  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/708.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Sport 1 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/125.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Sport 24 HD  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/157.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Moto GP  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/129.ts
+#EXTINF:0 type="stream" channelId="-1", Euro Sport  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/155.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Sport 2 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/126.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Calcio 1 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/195.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Calcio 2 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/219.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Crime HD  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2215.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Calcio 3 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/220.ts
+#EXTINF:0 type="stream" channelId="-1", PrimaFila 1 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/72.ts
+#EXTINF:0 type="stream" channelId="-1", Primafila 6 HD  IPTVultra.com [0x8]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/215.ts
+#EXTINF:0 type="stream" channelId="-1", Deporte  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/208.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL COCINA  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/190.ts
+#EXTINF:0 type="stream" channelId="-1", Primafila 7 HD  IPTVultra.com [656x352]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/216.ts
+#EXTINF:0 type="stream" channelId="-1", Primafila 8 HD  IPTVultra.com [1920x800]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/217.ts
+#EXTINF:0 type="stream" channelId="-1", Primafila 9 HD  IPTVultra.com [1920x800]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/214.ts
+#EXTINF:0 type="stream" channelId="-1", Primafila 10 HD  IPTVultra.com [0x8]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/207.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 6  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/199.ts
+#EXTINF:0 type="stream" channelId="-1", FOX ANIMATION  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2216.ts
+#EXTINF:0 type="stream" channelId="-1", BBC 3(Uk)  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1380.ts
+#EXTINF:0 type="stream" channelId="-1", USA:Tsn 4  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/211.ts
+#EXTINF:0 type="stream" channelId="-1", BBC 4 (Uk)  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1382.ts
+#EXTINF:0 type="stream" channelId="-1", ITV 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/695.ts
+#EXTINF:0 type="stream" channelId="-1", BBC 2(Uk)  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1381.ts
+#EXTINF:0 type="stream" channelId="-1", ITV 3  IPTVultra.com [880x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/696.ts
+#EXTINF:0 type="stream" channelId="-1", ITV 4  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/697.ts
+#EXTINF:0 type="stream" channelId="-1", 3 Plus  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/73.ts
+#EXTINF:0 type="stream" channelId="-1", COSMO  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/88.ts
+#EXTINF:0 type="stream" channelId="-1", Box Nation  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2170.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Comedy HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2214.ts
+#EXTINF:0 type="stream" channelId="-1", Sky UK Premiere  IPTVultra.com [544x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/166.ts
+#EXTINF:0 type="stream" channelId="-1", Real Lives  IPTVultra.com [544x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2174.ts
+#EXTINF:0 type="stream" channelId="-1", SKY THRILLER  IPTVultra.com [544x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/158.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Family HD UK  IPTVultra.com [1024x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/160.ts
+#EXTINF:0 type="stream" channelId="-1", Sky UK Comedy  IPTVultra.com [1024x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/165.ts
+#EXTINF:0 type="stream" channelId="-1", OL TV HD  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/703.ts
+#EXTINF:0 type="stream" channelId="-1", ITV 1  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/694.ts
+#EXTINF:0 type="stream" channelId="-1", RTK EST  IPTVultra.com [960x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2038.ts
+#EXTINF:0 type="stream" channelId="-1", Sky 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2165.ts
+#EXTINF:0 type="stream" channelId="-1", Discovery History  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/801.ts
+#EXTINF:0 type="stream" channelId="-1", SkyUK: BT Sport 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/130.ts
+#EXTINF:0 type="stream" channelId="-1", Gold  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2167.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Movies Action (UK)  IPTVultra.com [544x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/159.ts
+#EXTINF:0 type="stream" channelId="-1", DMAX  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2175.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Living 1 UK  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2173.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Drama  IPTVultra.com [544x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/145.ts
+#EXTINF:0 type="stream" channelId="-1", SKY Sport 2 HD (uk)  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/58.ts
+#EXTINF:0 type="stream" channelId="-1", RTE One  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2178.ts
+#EXTINF:0 type="stream" channelId="-1", SKY UK:BT SPORT 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/131.ts
+#EXTINF:0 type="stream" channelId="-1", Heart TV UK  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2176.ts
+#EXTINF:0 type="stream" channelId="-1", Canal Play 2  IPTVultra.com [6144x2]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/705.ts
+#EXTINF:0 type="stream" channelId="-1", SKY Sport 5 HD (uk)  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/61.ts
+#EXTINF:0 type="stream" channelId="-1", RTV 21MK  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/982.ts
+#EXTINF:0 type="stream" channelId="-1", AVN  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/59.ts
+#EXTINF:0 type="stream" channelId="-1", FOKUS  IPTVultra.com [480x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/60.ts
+#EXTINF:0 type="stream" channelId="-1", RTE Two  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2177.ts
+#EXTINF:0 type="stream" channelId="-1", SKYNET SPORTS 1  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2158.ts
+#EXTINF:0 type="stream" channelId="-1", Supersport 5 HD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/68.ts
+#EXTINF:0 type="stream" channelId="-1", France O HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/69.ts
+#EXTINF:0 type="stream" channelId="-1", France 2 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/222.ts
+#EXTINF:0 type="stream" channelId="-1", SKY FOX CRIME HD  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/744.ts
+#EXTINF:0 type="stream" channelId="-1", SKYNET SPORTS HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2159.ts
+#EXTINF:0 type="stream" channelId="-1", Comedy Extra  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2169.ts
+#EXTINF:0 type="stream" channelId="-1", CBS Drama  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2157.ts
+#EXTINF:0 type="stream" channelId="-1", Discovery AL  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/57.ts
+#EXTINF:0 type="stream" channelId="-1", France 4 HD  IPTVultra.com [768x432]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1319.ts
+#EXTINF:0 type="stream" channelId="-1", SKYNET SPORTS 5  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2163.ts
+#EXTINF:0 type="stream" channelId="-1", City  IPTVultra.com [512x288]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1034.ts
+#EXTINF:0 type="stream" channelId="-1", M6  IPTVultra.com [1040x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/143.ts
+#EXTINF:0 type="stream" channelId="-1", W9  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1030.ts
+#EXTINF:0 type="stream" channelId="-1", 6ter  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1031.ts
+#EXTINF:0 type="stream" channelId="-1", Canal Play 2  IPTVultra.com [6144x2]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1705.ts
+#EXTINF:0 type="stream" channelId="-1", BOOMERANG  IPTVultra.com [720x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/733.ts
+#EXTINF:0 type="stream" channelId="-1", TV Lux  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1033.ts
+#EXTINF:0 type="stream" channelId="-1", SKYNET SPORTS 4  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2162.ts
+#EXTINF:0 type="stream" channelId="-1", Plus HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/70.ts
+#EXTINF:0 type="stream" channelId="-1", TF1  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/227.ts
+#EXTINF:0 type="stream" channelId="-1", Canal C  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1032.ts
+#EXTINF:0 type="stream" channelId="-1", Canal+ France  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/988.ts
+#EXTINF:0 type="stream" channelId="-1", Canal+ Family  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/986.ts
+#EXTINF:0 type="stream" channelId="-1", Canal+ Emotion  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/987.ts
+#EXTINF:0 type="stream" channelId="-1", Canal+ Cinema  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/759.ts
+#EXTINF:0 type="stream" channelId="-1", CBS Reality 1 UK  IPTVultra.com [544x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2171.ts
+#EXTINF:0 type="stream" channelId="-1", FRANCE 5  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1333.ts
+#EXTINF:0 type="stream" channelId="-1", OL TV HD  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1703.ts
+#EXTINF:0 type="stream" channelId="-1", FR W9  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1325.ts
+#EXTINF:0 type="stream" channelId="-1", OCS GEANT  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1289.ts
+#EXTINF:0 type="stream" channelId="-1", OCS MAX  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1288.ts
+#EXTINF:0 type="stream" channelId="-1", AB1 HD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1701.ts
+#EXTINF:0 type="stream" channelId="-1", OCS CITY  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1290.ts
+#EXTINF:0 type="stream" channelId="-1", COMEDIE HD  IPTVultra.com [1040x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1322.ts
+#EXTINF:0 type="stream" channelId="-1", Canal Play 3  IPTVultra.com [16x0]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/706.ts
+#EXTINF:0 type="stream" channelId="-1", tvclub fr  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1029.ts
+#EXTINF:0 type="stream" channelId="-1", OCS CHOC  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1291.ts
+#EXTINF:0 type="stream" channelId="-1", Serie Club  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1294.ts
+#EXTINF:0 type="stream" channelId="-1", SKYNET SPORTS 3  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2161.ts
+#EXTINF:0 type="stream" channelId="-1", FR CANAL SERIES HD  IPTVultra.com [720x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1292.ts
+#EXTINF:0 type="stream" channelId="-1", FRA    AB Moteur  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/206.ts
+#EXTINF:0 type="stream" channelId="-1", FOX Life HD Italy  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/89.ts
+#EXTINF:0 type="stream" channelId="-1", DISNEY XD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1320.ts
+#EXTINF:0 type="stream" channelId="-1", Equidia Live HD  IPTVultra.com [768x432]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1699.ts
+#EXTINF:0 type="stream" channelId="-1", Gulli  IPTVultra.com [1040x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1331.ts
+#EXTINF:0 type="stream" channelId="-1", Ushuaia  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/133.ts
+#EXTINF:0 type="stream" channelId="-1", French:Canal + Decale HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/745.ts
+#EXTINF:0 type="stream" channelId="-1", Planete  A/E  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1298.ts
+#EXTINF:0 type="stream" channelId="-1", FR Chasse et Peche  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1318.ts
+#EXTINF:0 type="stream" channelId="-1", Discovery Showcase HD  IPTVultra.com [1024x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1007.ts
+#EXTINF:0 type="stream" channelId="-1", DiscoveryScienceHD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1321.ts
+#EXTINF:0 type="stream" channelId="-1", Animax  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1295.ts
+#EXTINF:0 type="stream" channelId="-1", FR Discovery HD  IPTVultra.com [720x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1316.ts
+#EXTINF:0 type="stream" channelId="-1", MTV Rocks  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1332.ts
+#EXTINF:0 type="stream" channelId="-1", MTV Dance  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1326.ts
+#EXTINF:0 type="stream" channelId="-1", TCM Cinema HD  IPTVultra.com [1040x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1337.ts
+#EXTINF:0 type="stream" channelId="-1", SFR Sport 2 HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1695.ts
+#EXTINF:0 type="stream" channelId="-1", Nat Geo  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1297.ts
+#EXTINF:0 type="stream" channelId="-1", Nat Geo Wild  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1296.ts
+#EXTINF:0 type="stream" channelId="-1", SFR Sport 1 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1694.ts
+#EXTINF:0 type="stream" channelId="-1", SFR Sport 3 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1696.ts
+#EXTINF:0 type="stream" channelId="-1", Canal Play 3  IPTVultra.com [16x0]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1706.ts
+#EXTINF:0 type="stream" channelId="-1", Foot 24  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1697.ts
+#EXTINF:0 type="stream" channelId="-1", beIN Sports HD 4  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/773.ts
+#EXTINF:0 type="stream" channelId="-1", BeIN SPORTS 5 HD  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1054.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 7HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1575.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 7 HD  IPTVultra.com [1376x768]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1056.ts
+#EXTINF:0 type="stream" channelId="-1", BeIN SPORTS 6 HD  IPTVultra.com [1376x768]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1055.ts
+#EXTINF:0 type="stream" channelId="-1", HD1  IPTVultra.com [1040x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1330.ts
+#EXTINF:0 type="stream" channelId="-1", A LA CARTE 02  IPTVultra.com [6144x2]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1338.ts
+#EXTINF:0 type="stream" channelId="-1", Planete  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1299.ts
+#EXTINF:0 type="stream" channelId="-1", FR NRJ TV  IPTVultra.com [1040x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1314.ts
+#EXTINF:0 type="stream" channelId="-1", A LA CARTE 05  IPTVultra.com [0x8]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1341.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN MOVIES 1HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1581.ts
+#EXTINF:0 type="stream" channelId="-1", FR INFOSPORT HD  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1336.ts
+#EXTINF:0 type="stream" channelId="-1", beIN Sports HD 3 FR  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/724.ts
+#EXTINF:0 type="stream" channelId="-1", A LA CARTE 04  IPTVultra.com [704x384]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1340.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN MOVIES 3HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1583.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 1HD  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1585.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 3HD  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1587.ts
+#EXTINF:0 type="stream" channelId="-1", Canal Sport HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/729.ts
+#EXTINF:0 type="stream" channelId="-1", A LA CARTE 07  IPTVultra.com [784x432]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1343.ts
+#EXTINF:0 type="stream" channelId="-1", ACTION  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1324.ts
+#EXTINF:0 type="stream" channelId="-1", SKYNET SPORTS 2  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2160.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 9HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1577.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 12HD  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1580.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN MOVIES 2HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1582.ts
+#EXTINF:0 type="stream" channelId="-1", Bein Sport 2 HD FR  IPTVultra.com [1040x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/193.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 5  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1571.ts
+#EXTINF:0 type="stream" channelId="-1", NPO 1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1551.ts
+#EXTINF:0 type="stream" channelId="-1", A LA CARTE 06  IPTVultra.com [6144x2]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1342.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 6  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1572.ts
+#EXTINF:0 type="stream" channelId="-1", A LA CARTE 03  IPTVultra.com [0x8]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1339.ts
+#EXTINF:0 type="stream" channelId="-1", WEO fr  IPTVultra.com [384x224]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1180.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 11HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1579.ts
+#EXTINF:0 type="stream" channelId="-1", NET 5 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1553.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN MOVIES 4HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1584.ts
+#EXTINF:0 type="stream" channelId="-1", HBO 2 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1555.ts
+#EXTINF:0 type="stream" channelId="-1", RTL 4  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1548.ts
+#EXTINF:0 type="stream" channelId="-1", Bein Sport 1 HD FR  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/194.ts
+#EXTINF:0 type="stream" channelId="-1", Arabic:Bein Sports 10 HD  IPTVultra.com [1376x768]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/885.ts
+#EXTINF:0 type="stream" channelId="-1", TV Sjuan  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1445.ts
+#EXTINF:0 type="stream" channelId="-1", RTL 8  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1545.ts
+#EXTINF:0 type="stream" channelId="-1", TV8 SW  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1446.ts
+#EXTINF:0 type="stream" channelId="-1", HBO 3 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1554.ts
+#EXTINF:0 type="stream" channelId="-1", Film 1 Comedy  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1563.ts
+#EXTINF:0 type="stream" channelId="-1", Viasat Film  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1488.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 3 Eredivisie  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1558.ts
+#EXTINF:0 type="stream" channelId="-1", Viasat Film Family  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1487.ts
+#EXTINF:0 type="stream" channelId="-1", Viasat 4 Norway  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1495.ts
+#EXTINF:0 type="stream" channelId="-1", Film 1 Action  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1564.ts
+#EXTINF:0 type="stream" channelId="-1", C More Hockey  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1493.ts
+#EXTINF:0 type="stream" channelId="-1", VOX Norway  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1496.ts
+#EXTINF:0 type="stream" channelId="-1", RTL 7  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1546.ts
+#EXTINF:0 type="stream" channelId="-1", Viasat Series  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1494.ts
+#EXTINF:0 type="stream" channelId="-1", Disney Channel  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1565.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 10HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1578.ts
+#EXTINF:0 type="stream" channelId="-1", NOR: C More Live  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1489.ts
+#EXTINF:0 type="stream" channelId="-1", Fox  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1561.ts
+#EXTINF:0 type="stream" channelId="-1", Viasat Film Premiere  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1447.ts
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 8HD  IPTVultra.com [1376x768]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1576.ts
+#EXTINF:0 type="stream" channelId="-1", Tv4 Film  IPTVultra.com [720x432]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1499.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT 1 EXSTRA 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1540.ts
+#EXTINF:0 type="stream" channelId="-1", Eurosport 2 HD  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1700.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 2 International  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1559.ts
+#EXTINF:0 type="stream" channelId="-1", TV10  IPTVultra.com [1024x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1491.ts
+#EXTINF:0 type="stream" channelId="-1", Film 1 Premiere HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1562.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 1 Eredivisie HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1560.ts
+#EXTINF:0 type="stream" channelId="-1", FILM 1 SUNDANCE  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1566.ts
+#EXTINF:0 type="stream" channelId="-1", TV 4  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1442.ts
+#EXTINF:0 type="stream" channelId="-1", tvm3  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1501.ts
+#EXTINF:0 type="stream" channelId="-1", FILM 1 SPORTLIGHT  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1574.ts
+#EXTINF:0 type="stream" channelId="-1", Kanal 11  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2153.ts
+#EXTINF:0 type="stream" channelId="-1", VIASAT: SVT1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1486.ts
+#EXTINF:0 type="stream" channelId="-1", TV12  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1492.ts
+#EXTINF:0 type="stream" channelId="-1", Viasat Explore  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2151.ts
+#EXTINF:0 type="stream" channelId="-1", V2 Sport Premium SWE  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1482.ts
+#EXTINF:0 type="stream" channelId="-1", SVT2 (global)  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1449.ts
+#EXTINF:0 type="stream" channelId="-1", WEO  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1502.ts
+#EXTINF:0 type="stream" channelId="-1", CHANNEL 4 Sweden  IPTVultra.com [720x432]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1498.ts
+#EXTINF:0 type="stream" channelId="-1", Viasat Film Hits  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1485.ts
+#EXTINF:0 type="stream" channelId="-1", SPORTS 1 EXSTRA 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1542.ts
+#EXTINF:0 type="stream" channelId="-1", Kanal 5  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1443.ts
+#EXTINF:0 type="stream" channelId="-1", Viasat Comedy SWE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1448.ts
+#EXTINF:0 type="stream" channelId="-1", C More Fotboll SWE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1450.ts
+#EXTINF:0 type="stream" channelId="-1", TV 4 Film  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1451.ts
+#EXTINF:0 type="stream" channelId="-1", More Fotboll SWE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1452.ts
+#EXTINF:0 type="stream" channelId="-1", C More First SWE  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1453.ts
+#EXTINF:0 type="stream" channelId="-1", Travel Channel  IPTVultra.com [1280x736]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2149.ts
+#EXTINF:0 type="stream" channelId="-1", KANAL 5 SE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1456.ts
+#EXTINF:0 type="stream" channelId="-1", RTL Deutschland  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/170.ts
+#EXTINF:0 type="stream" channelId="-1", More Action SWE  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1455.ts
+#EXTINF:0 type="stream" channelId="-1", SKY NOSTALGIE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/202.ts
+#EXTINF:0 type="stream" channelId="-1", RTL II Deutschland  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/136.ts
+#EXTINF:0 type="stream" channelId="-1", VOX DE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/723.ts
+#EXTINF:0 type="stream" channelId="-1", ATV 24  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/740.ts
+#EXTINF:0 type="stream" channelId="-1", NO=C More Emotion (global)  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1454.ts
+#EXTINF:0 type="stream" channelId="-1", ARTE.DE  IPTVultra.com [848x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/161.ts
+#EXTINF:0 type="stream" channelId="-1", Film Dy SD  IPTVultra.com [320x176]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/95.ts
+#EXTINF:0 type="stream" channelId="-1", NICKELODEON DE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1028.ts
+#EXTINF:0 type="stream" channelId="-1", SAT 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/747.ts
+#EXTINF:0 type="stream" channelId="-1", Orf 2  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/749.ts
+#EXTINF:0 type="stream" channelId="-1", Discovery Turbo  IPTVultra.com [544x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/710.ts
+#EXTINF:0 type="stream" channelId="-1", DMAX  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1041.ts
+#EXTINF:0 type="stream" channelId="-1", Comedy Central  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2148.ts
+#EXTINF:0 type="stream" channelId="-1", DE Sky Germany 13 Street HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/149.ts
+#EXTINF:0 type="stream" channelId="-1", Syfy  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1042.ts
+#EXTINF:0 type="stream" channelId="-1", MGM DE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1027.ts
+#EXTINF:0 type="stream" channelId="-1", ITV 3  IPTVultra.com [880x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/96.ts
+#EXTINF:0 type="stream" channelId="-1", SKY FOX DE  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1026.ts
+#EXTINF:0 type="stream" channelId="-1", DE Sky Cinema HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/177.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Hits DE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/782.ts
+#EXTINF:0 type="stream" channelId="-1", Sky De Krimi  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/148.ts
+#EXTINF:0 type="stream" channelId="-1", Srf 1 HDs 1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1044.ts
+#EXTINF:0 type="stream" channelId="-1", 3Sat  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/748.ts
+#EXTINF:0 type="stream" channelId="-1", SKY DE EMOTION  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/218.ts
+#EXTINF:0 type="stream" channelId="-1", SKY ACTION DE  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/135.ts
+#EXTINF:0 type="stream" channelId="-1", SKY COMEDY DE  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/813.ts
+#EXTINF:0 type="stream" channelId="-1", AB3 HD  IPTVultra.com [768x432]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/702.ts
+#EXTINF:0 type="stream" channelId="-1", Disney channels  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/809.ts
+#EXTINF:0 type="stream" channelId="-1", Kika  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/139.ts
+#EXTINF:0 type="stream" channelId="-1", Orf 1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/750.ts
+#EXTINF:0 type="stream" channelId="-1", SportDigital HD DE  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/865.ts
+#EXTINF:0 type="stream" channelId="-1", RTL Plus  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1043.ts
+#EXTINF:0 type="stream" channelId="-1", SKY Sport 1 HD (de)  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/75.ts
+#EXTINF:0 type="stream" channelId="-1", SRF 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/711.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 5  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/71.ts
+#EXTINF:0 type="stream" channelId="-1", KLAN EST USA  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/76.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Atlantic  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/138.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 2  IPTVultra.com [1920x800]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/203.ts
+#EXTINF:0 type="stream" channelId="-1", SKY BUNDESLIGA 5 HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1323.ts
+#EXTINF:0 type="stream" channelId="-1", SKY BUNDESLIGA 2 HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1293.ts
+#EXTINF:0 type="stream" channelId="-1", SKY BUNDESLIGA 9 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1311.ts
+#EXTINF:0 type="stream" channelId="-1", SKY BUNDESLIGA 10 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1300.ts
+#EXTINF:0 type="stream" channelId="-1", History  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/167.ts
+#EXTINF:0 type="stream" channelId="-1", Sky NatGeo Wild HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/731.ts
+#EXTINF:0 type="stream" channelId="-1", TV2 Zebra SWE  IPTVultra.com [640x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1497.ts
+#EXTINF:0 type="stream" channelId="-1", VH1 CLASSIC  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1185.ts
+#EXTINF:0 type="stream" channelId="-1", National Geographic Channel Deutschland  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/235.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 1  IPTVultra.com [1920x800]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1205.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 2  IPTVultra.com [1920x800]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1203.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 3  IPTVultra.com [1280x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1202.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 4  IPTVultra.com [1280x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1201.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 5  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1200.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 6  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1199.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 7  IPTVultra.com [1920x816]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1198.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 8  IPTVultra.com [1152x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1197.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 10  IPTVultra.com [720x304]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1204.ts
+#EXTINF:0 type="stream" channelId="-1", VH1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1186.ts
+#EXTINF:0 type="stream" channelId="-1", Dave  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2168.ts
+#EXTINF:0 type="stream" channelId="-1", ODISEA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1183.ts
+#EXTINF:0 type="stream" channelId="-1", HWD HOLLYWOOD HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1177.ts
+#EXTINF:0 type="stream" channelId="-1", HISTORIA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1178.ts
+#EXTINF:0 type="stream" channelId="-1", FOX LIFE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1173.ts
+#EXTINF:0 type="stream" channelId="-1", FOX  IPTVultra.com [1280x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1174.ts
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY MAX  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1176.ts
+#EXTINF:0 type="stream" channelId="-1", COSMO  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1188.ts
+#EXTINF:0 type="stream" channelId="-1", AXN WHITE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1168.ts
+#EXTINF:0 type="stream" channelId="-1", AXN  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1169.ts
+#EXTINF:0 type="stream" channelId="-1", AMC ES  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1171.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL  COMEDIA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1191.ts
+#EXTINF:0 type="stream" channelId="-1", tcm  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1172.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL COCINA  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1190.ts
+#EXTINF:0 type="stream" channelId="-1", COMEDY CENTRAL  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1189.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL  SERIES  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1192.ts
+#EXTINF:0 type="stream" channelId="-1", C  ACCION  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1195.ts
+#EXTINF:0 type="stream" channelId="-1", LA1 (es)  IPTVultra.com [1440x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1175.ts
+#EXTINF:0 type="stream" channelId="-1", C SERIES EXTRA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1193.ts
+#EXTINF:0 type="stream" channelId="-1", Deporte  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1208.ts
+#EXTINF:0 type="stream" channelId="-1", Real Madrid  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1187.ts
+#EXTINF:0 type="stream" channelId="-1", C  FÃšTBOL  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1196.ts
+#EXTINF:0 type="stream" channelId="-1", Taquilla 8  IPTVultra.com [720x336]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1947.ts
+#EXTINF:0 type="stream" channelId="-1", Golf HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/698.ts
+#EXTINF:0 type="stream" channelId="-1", TVI 24  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1434.ts
+#EXTINF:0 type="stream" channelId="-1", Taquilla 1  IPTVultra.com [1280x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1955.ts
+#EXTINF:0 type="stream" channelId="-1", TV Records  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1408.ts
+#EXTINF:0 type="stream" channelId="-1", Rtp Africa  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1411.ts
+#EXTINF:0 type="stream" channelId="-1", Series TV  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1432.ts
+#EXTINF:0 type="stream" channelId="-1", Porto Canal  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1416.ts
+#EXTINF:0 type="stream" channelId="-1", Rtp 3  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1405.ts
+#EXTINF:0 type="stream" channelId="-1", Rtp 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1407.ts
+#EXTINF:0 type="stream" channelId="-1", (POL) Discovery Turbo Xtra HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2212.ts
+#EXTINF:0 type="stream" channelId="-1", Panda Biggs  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1417.ts
+#EXTINF:0 type="stream" channelId="-1", Odisseia  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1418.ts
+#EXTINF:0 type="stream" channelId="-1", SKYNET SPORTS 6  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2164.ts
+#EXTINF:0 type="stream" channelId="-1", Nickelodeon  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1419.ts
+#EXTINF:0 type="stream" channelId="-1", C DEPORTES2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1184.ts
+#EXTINF:0 type="stream" channelId="-1", National Geographic Wild  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1420.ts
+#EXTINF:0 type="stream" channelId="-1", National Geographic  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1409.ts
+#EXTINF:0 type="stream" channelId="-1", LA SEXTA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1179.ts
+#EXTINF:0 type="stream" channelId="-1", C ESTRENOS  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1194.ts
+#EXTINF:0 type="stream" channelId="-1", Taquilla 6  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1949.ts
+#EXTINF:0 type="stream" channelId="-1", Historia  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1412.ts
+#EXTINF:0 type="stream" channelId="-1", Globo  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1413.ts
+#EXTINF:0 type="stream" channelId="-1", Fox movies  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1414.ts
+#EXTINF:0 type="stream" channelId="-1", Taquilla 5  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1950.ts
+#EXTINF:0 type="stream" channelId="-1", Fox HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1425.ts
+#EXTINF:0 type="stream" channelId="-1", Fox crime  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1426.ts
+#EXTINF:0 type="stream" channelId="-1", Cinemundo  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1428.ts
+#EXTINF:0 type="stream" channelId="-1", Tlc  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1436.ts
+#EXTINF:0 type="stream" channelId="-1", Cine 1 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1438.ts
+#EXTINF:0 type="stream" channelId="-1", Cine 2 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1433.ts
+#EXTINF:0 type="stream" channelId="-1", Cine 3 HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1437.ts
+#EXTINF:0 type="stream" channelId="-1", TVI Ficcao  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1404.ts
+#EXTINF:0 type="stream" channelId="-1", Cine 4 HD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1435.ts
+#EXTINF:0 type="stream" channelId="-1", Fox Life  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1424.ts
+#EXTINF:0 type="stream" channelId="-1", Canal Hollywood  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1429.ts
+#EXTINF:0 type="stream" channelId="-1", Rtp 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1406.ts
+#EXTINF:0 type="stream" channelId="-1", Taquilla 7  IPTVultra.com [1280x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1948.ts
+#EXTINF:0 type="stream" channelId="-1", Benfica Tv 1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1431.ts
+#EXTINF:0 type="stream" channelId="-1", Baby TV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1422.ts
+#EXTINF:0 type="stream" channelId="-1", A&E  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1423.ts
+#EXTINF:0 type="stream" channelId="-1", Disney Junior  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1421.ts
+#EXTINF:0 type="stream" channelId="-1", Disney Channel  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1410.ts
+#EXTINF:0 type="stream" channelId="-1", Sporting TV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1415.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 1  IPTVultra.com [1440x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/746.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/886.ts
+#EXTINF:0 type="stream" channelId="-1", Ert 2  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/778.ts
+#EXTINF:0 type="stream" channelId="-1", Taquilla 3  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1952.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 3  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1440.ts
+#EXTINF:0 type="stream" channelId="-1", Mega  IPTVultra.com [480x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/137.ts
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 4  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1439.ts
+#EXTINF:0 type="stream" channelId="-1", Sky GR  IPTVultra.com [704x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/777.ts
+#EXTINF:0 type="stream" channelId="-1", E ! gr  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/119.ts
+#EXTINF:0 type="stream" channelId="-1", Ant 1 (GR)  IPTVultra.com [480x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/152.ts
+#EXTINF:0 type="stream" channelId="-1", EuroNews  IPTVultra.com [416x240]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/226.ts
+#EXTINF:0 type="stream" channelId="-1", LA SEXTA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/179.ts
+#EXTINF:0 type="stream" channelId="-1", Macedonia TV HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1552.ts
+#EXTINF:0 type="stream" channelId="-1", Baby Tv  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/83.ts
+#EXTINF:0 type="stream" channelId="-1", Taquilla 4  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1951.ts
+#EXTINF:0 type="stream" channelId="-1", Taquilla 2  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1953.ts
+#EXTINF:0 type="stream" channelId="-1", Nickelodeon GR  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/225.ts
+#EXTINF:0 type="stream" channelId="-1", Arkiva Dokumentar  IPTVultra.com [720x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/84.ts
+#EXTINF:0 type="stream" channelId="-1", Mad (GR)  IPTVultra.com [608x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/185.ts
+#EXTINF:0 type="stream" channelId="-1", Nr 1 Channel  IPTVultra.com [480x272]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/808.ts
+#EXTINF:0 type="stream" channelId="-1", Taquilla 9  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1946.ts
+#EXTINF:0 type="stream" channelId="-1", NT1  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/806.ts
+#EXTINF:0 type="stream" channelId="-1", ATV  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/815.ts
+#EXTINF:0 type="stream" channelId="-1", TRT HD  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/186.ts
+#EXTINF:0 type="stream" channelId="-1", Kanal D HD Turk  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/187.ts
+#EXTINF:0 type="stream" channelId="-1", SHOW TV  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1347.ts
+#EXTINF:0 type="stream" channelId="-1", Alsat M EST USA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/77.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Hits DE  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/82.ts
+#EXTINF:0 type="stream" channelId="-1", Power HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/234.ts
+#EXTINF:0 type="stream" channelId="-1", PowerTurk HD  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/184.ts
+#EXTINF:0 type="stream" channelId="-1", Moviesmart Classic  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1385.ts
+#EXTINF:0 type="stream" channelId="-1", CANAL J  IPTVultra.com [1040x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1335.ts
+#EXTINF:0 type="stream" channelId="-1", KRAL TV  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1354.ts
+#EXTINF:0 type="stream" channelId="-1", TV 8  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1378.ts
+#EXTINF:0 type="stream" channelId="-1", M6 Music  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/807.ts
+#EXTINF:0 type="stream" channelId="-1", HABER TURK  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1353.ts
+#EXTINF:0 type="stream" channelId="-1", (AZE) IDMAN TV  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2207.ts
+#EXTINF:0 type="stream" channelId="-1", Sinema Turk  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1369.ts
+#EXTINF:0 type="stream" channelId="-1", DISNEY CHANNEL TV  IPTVultra.com [320x256]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1348.ts
+#EXTINF:0 type="stream" channelId="-1", NTV SPORT TR  IPTVultra.com [720x592]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/835.ts
+#EXTINF:0 type="stream" channelId="-1", TIVIBUSPOR 1  IPTVultra.com [1024x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1345.ts
+#EXTINF:0 type="stream" channelId="-1", Vizion+ EST USA  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/79.ts
+#EXTINF:0 type="stream" channelId="-1", 7  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1364.ts
+#EXTINF:0 type="stream" channelId="-1", Trt Sport  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1344.ts
+#EXTINF:0 type="stream" channelId="-1", ERT WORLD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2077.ts
+#EXTINF:0 type="stream" channelId="-1", Minika Cocuk  IPTVultra.com [640x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1349.ts
+#EXTINF:0 type="stream" channelId="-1", (TR)  HISTORY CHANNEL HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/2208.ts
+#EXTINF:0 type="stream" channelId="-1", HABERTURK HD  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/804.ts
+#EXTINF:0 type="stream" channelId="-1", Sinema 1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1389.ts
+#EXTINF:0 type="stream" channelId="-1", TRT 6  IPTVultra.com [1024x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/805.ts
+#EXTINF:0 type="stream" channelId="-1", Klan  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/78.ts
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY CHANNEL  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1356.ts
+#EXTINF:0 type="stream" channelId="-1", Flash TV  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1365.ts
+#EXTINF:0 type="stream" channelId="-1", SINEMAX COMEDY HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1366.ts
+#EXTINF:0 type="stream" channelId="-1", FOX  IPTVultra.com [1920x1088]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1351.ts
+#EXTINF:0 type="stream" channelId="-1", TRT DIYANET  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1387.ts
+#EXTINF:0 type="stream" channelId="-1", Lig tv 3  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/182.ts
+#EXTINF:0 type="stream" channelId="-1", A Haber  IPTVultra.com [864x480]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1371.ts
+#EXTINF:0 type="stream" channelId="-1", Boyah GR  IPTVultra.com [640x368]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1310.ts
+#EXTINF:0 type="stream" channelId="-1", Lig Tv 1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/209.ts
+#EXTINF:0 type="stream" channelId="-1", (TR)  MOVIEMAX OSCAR (VOD)  IPTVultra.com [1280x688]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1357.ts
+#EXTINF:0 type="stream" channelId="-1", NAT GEO WILD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1355.ts
+#EXTINF:0 type="stream" channelId="-1", TIVIBUSPOR 2  IPTVultra.com [1024x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1346.ts
+#EXTINF:0 type="stream" channelId="-1", Salon 2  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1362.ts
+#EXTINF:0 type="stream" channelId="-1", (TR)  BEIN MOVIES FESTIVAL HD  IPTVultra.com [720x304]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1368.ts
+#EXTINF:0 type="stream" channelId="-1", Moviesmart Premium  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1370.ts
+#EXTINF:0 type="stream" channelId="-1", Cine Star Komedi  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1376.ts
+#EXTINF:0 type="stream" channelId="-1", SineMAX Fear HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1388.ts
+#EXTINF:0 type="stream" channelId="-1", Dubai Sports  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1926.ts
+#EXTINF:0 type="stream" channelId="-1", (TR)  MaGicBoX Nostalji HD  IPTVultra.com [1280x800]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1375.ts
+#EXTINF:0 type="stream" channelId="-1", V!VA TURK  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1377.ts
+#EXTINF:0 type="stream" channelId="-1", SAMA DUBAI  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1923.ts
+#EXTINF:0 type="stream" channelId="-1", SineMAX Nostalgia HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1379.ts
+#EXTINF:0 type="stream" channelId="-1", Panorama Film  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1919.ts
+#EXTINF:0 type="stream" channelId="-1", DUBAI TV  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1922.ts
+#EXTINF:0 type="stream" channelId="-1", MPAXALO TV  IPTVultra.com [960x544]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1305.ts
+#EXTINF:0 type="stream" channelId="-1", CNN TURK  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1352.ts
+#EXTINF:0 type="stream" channelId="-1", MBC  DRAMA  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1902.ts
+#EXTINF:0 type="stream" channelId="-1", DUBAI RACING1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1927.ts
+#EXTINF:0 type="stream" channelId="-1", Salon 1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1363.ts
+#EXTINF:0 type="stream" channelId="-1", (TR)  SHOWMAX  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1372.ts
+#EXTINF:0 type="stream" channelId="-1", MBC ACTION  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1903.ts
+#EXTINF:0 type="stream" channelId="-1", Star cinema 1  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1891.ts
+#EXTINF:0 type="stream" channelId="-1", MBC BOLLYWOOD  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1905.ts
+#EXTINF:0 type="stream" channelId="-1", ART AFLAM 1  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1894.ts
+#EXTINF:0 type="stream" channelId="-1", OSN MOVIES COMEDY  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1913.ts
+#EXTINF:0 type="stream" channelId="-1", OSN MOVIES PREMIERE  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1911.ts
+#EXTINF:0 type="stream" channelId="-1", OSN ON DEMAND  IPTVultra.com [0x0]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1915.ts
+#EXTINF:0 type="stream" channelId="-1", Music Greek  IPTVultra.com [320x240]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/836.ts
+#EXTINF:0 type="stream" channelId="-1", ART CINEMA  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1896.ts
+#EXTINF:0 type="stream" channelId="-1", DUBAI ONE  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1925.ts
+#EXTINF:0 type="stream" channelId="-1", TR DiGiMAX ANIMASYON HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1350.ts
+#EXTINF:0 type="stream" channelId="-1", KANAL 7 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1360.ts
+#EXTINF:0 type="stream" channelId="-1", TR DIGIMAX HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1358.ts
+#EXTINF:0 type="stream" channelId="-1", MBC 4  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1900.ts
+#EXTINF:0 type="stream" channelId="-1", MBC 3  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1899.ts
+#EXTINF:0 type="stream" channelId="-1", MBC 2  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1898.ts
+#EXTINF:0 type="stream" channelId="-1", Panorama Drama2  IPTVultra.com [624x384]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1921.ts
+#EXTINF:0 type="stream" channelId="-1", panorama drama  IPTVultra.com [624x384]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1920.ts
+#EXTINF:0 type="stream" channelId="-1", Sinema Aksiyon  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1383.ts
+#EXTINF:0 type="stream" channelId="-1", MBC 1  IPTVultra.com [624x384]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1897.ts
+#EXTINF:0 type="stream" channelId="-1", ART AFLAM 2  IPTVultra.com [544x432]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1895.ts
+#EXTINF:0 type="stream" channelId="-1", MBC MAX  IPTVultra.com [608x400]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1904.ts
+#EXTINF:0 type="stream" channelId="-1", Channel x 3  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1061.ts
+#EXTINF:0 type="stream" channelId="-1", Channel x 2  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1062.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Shqip  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/741.ts
+#EXTINF:0 type="stream" channelId="-1", Channel x 1  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/144.ts
+#EXTINF:0 type="stream" channelId="-1", SKY SELECT 7  IPTVultra.com [1920x816]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/198.ts
+#EXTINF:0 type="stream" channelId="-1", Dorcel  IPTVultra.com [720x416]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/859.ts
+#EXTINF:0 type="stream" channelId="-1", Pink 2  IPTVultra.com [720x576]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/67.ts
+#EXTINF:0 type="stream" channelId="-1", Hot Club  IPTVultra.com [768x432]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/883.ts
+#EXTINF:0 type="stream" channelId="-1", Venus  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1731.ts
+#EXTINF:0 type="stream" channelId="-1", USA:Tsn 4  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1211.ts
+#EXTINF:0 type="stream" channelId="-1", SKY BUNDESLIGA 8 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1285.ts
+#EXTINF:0 type="stream" channelId="-1", Sky Sport 7 HD  IPTVultra.com [1280x720]
+http://163.172.28.33:9705/live/Fcb:Alb-Tv-Systems/asddffeww22/1210.ts
